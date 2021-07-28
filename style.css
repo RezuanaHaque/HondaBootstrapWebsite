@@ -1,0 +1,16 @@
+.headercolor{
+    background-color: #264653;
+}
+.padding{
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.btncolor{
+    background-color: #E76F51;
+}
+.spancolors{
+    color: #E76F51;
+}
+.stars>.fa-star{
+    color: #E76F51;
+}
