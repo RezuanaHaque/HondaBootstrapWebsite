@@ -2,6 +2,9 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.container1{
+    overflow-x: hidden;
+}
 /* header background */
 .headercolor{
     background-color: #264653;
