@@ -1,6 +1,12 @@
+/* font  */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* header background */
 .headercolor{
     background-color: #264653;
 }
+
 .padding{
     padding-top: 120px;
     padding-bottom: 120px;
@@ -13,4 +19,10 @@
 }
 .stars>.fa-star{
     color: #E76F51;
+}
+.imggrayscale{
+filter: grayscale(100%);
+}
+.clienttxt{
+    color: #7E848C;
 }
